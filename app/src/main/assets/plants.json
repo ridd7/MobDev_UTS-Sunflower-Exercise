@@ -9,7 +9,7 @@
   },
   {
     "plantId": "beta-vulgaris",
-    "name": "Beet",
+    "name": "Rambutan",
     "description": "The beetroot is the taproot portion of the beet plant, usually known in North America as the beet and also known as the table beet, garden beet, red beet, or golden beet. It is one of several of the cultivated varieties of Beta vulgaris grown for their edible taproots and their leaves (called beet greens). These varieties have been classified as B. vulgaris subsp. vulgaris Conditiva Group.<br><br>Other than as a food, beets have use as a food colouring and as a medicinal plant. Many beet products are made from other Beta vulgaris varieties, particularly sugar beet.<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Beetroot\">Wikipedia</a>)",
     "growZoneNumber": 2,
     "wateringInterval": 7,
@@ -134,5 +134,14 @@
     "growZoneNumber": 10,
     "wateringInterval": 21,
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paperflower_--_Bougainvillea_glabra.jpg"
+  },
+  {
+    "plantId": "azalea-azalea",
+    "name": "Azalea",
+    "description": "Cypripedium reginae, known as the showy lady's slipper, pink-and-white lady's-slipper, or the queen's lady's-slipper, is a rare terrestrial lady's-slipper orchid native to northern North America.<br><br>It is the state flower of Minnesota, United States, and the provincial flower of Prince Edward Island, Canada.<br><br>Despite producing a large amount of seeds per seed pod, it reproduces largely by vegetative reproduction, and remains restricted to the North East region of the United States and south east regions of Canada. Although never common, this rare plant has vanished from much of its historical range due to habitat loss. It has been a subject of horticultural interest for many years with Charles Darwin who, like many, was unsuccessful in cultivating the plant.<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Cypripedium_reginae\">Wikipedia</a>)",
+    "growZoneNumber": 4,
+    "wateringInterval": 7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Azalee2.jpg/360px-Azalee2.jpg"
+
   }
 ]

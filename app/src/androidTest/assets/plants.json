@@ -9,7 +9,7 @@
   },
   {
     "plantId": "beta-vulgaris",
-    "name": "Beet",
+    "name": "Rambutan",
     "description": "The beetroot is the taproot portion of the beet plant, usually known in North America as the beet and also known as the table beet, garden beet, red beet, or golden beet. It is one of several of the cultivated varieties of Beta vulgaris grown for their edible taproots and their leaves (called beet greens). These varieties have been classified as B. vulgaris subsp. vulgaris Conditiva Group.<br><br>Other than as a food, beets have use as a food colouring and as a medicinal plant. Many beet products are made from other Beta vulgaris varieties, particularly sugar beet.<br><br>(From <a href=\"https://en.wikipedia.org/wiki/Beetroot\">Wikipedia</a>)",
     "growZoneNumber": 2,
     "wateringInterval": 7,
@@ -134,5 +134,8 @@
     "growZoneNumber": 10,
     "wateringInterval": 21,
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paperflower_--_Bougainvillea_glabra.jpg"
+  },
+  {
+
   }
 ]

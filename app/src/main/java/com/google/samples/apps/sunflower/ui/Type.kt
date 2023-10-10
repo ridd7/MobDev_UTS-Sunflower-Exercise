@@ -33,16 +33,16 @@ val Typography = Typography(
     ),
     labelSmall = TextStyle(
         fontWeight = FontWeight.Normal,
-        fontSize = 13.sp
+        fontSize = 16.sp
     ),
     titleSmall = TextStyle(
         fontWeight = FontWeight.Bold,
-        fontSize = 14.sp
+        fontSize = 18.sp
     ),
     titleMedium = TextStyle(
         fontWeight = FontWeight.SemiBold,
         letterSpacing = (.5).sp,
-        fontSize = 18.sp
+        fontSize = 20.sp
     ),
     titleLarge = TextStyle(
         fontWeight = FontWeight.Normal,
