@@ -1,3 +1,6 @@
+# Keterangan
+Ini adalah clone dari Sunflower untuk latihan Mobile Dev utnuk tugas UTS.
+
 # Android Sunflower with Compose
 
 A gardening app illustrating Android development best practices with migrating a View-based app to
