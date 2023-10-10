@@ -1,5 +1,5 @@
 # Keterangan
-Ini adalah clone dari Sunflower untuk latihan Mobile Dev utnuk tugas UTS.
+Ini adalah clone dari Sunflower untuk latihan Mobile Dev dari tugas UTS.
 
 # Android Sunflower with Compose
 
